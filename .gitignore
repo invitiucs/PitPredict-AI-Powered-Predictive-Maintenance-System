@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Model files (optional - remove this line if you want to upload the trained model)
+*.pkl
+
+# Generated plots
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
